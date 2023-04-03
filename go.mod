@@ -3,7 +3,7 @@ module github.com/jlu-cow-studio/tag-core
 go 1.17
 
 require (
-	github.com/jlu-cow-studio/common v0.2.85
+	github.com/jlu-cow-studio/common v0.2.87
 	github.com/sanity-io/litter v1.5.5
 	google.golang.org/grpc v1.54.0
 )
